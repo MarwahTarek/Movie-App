@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_detail">Movie Info</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="details">Details</string>
+    <string name="release_date">Release Date</string>
+    <string name="ratings">Ratings</string>
+    <string name="story">Story</string>
+
+
+
+    <string name="label_sort">Sort by</string>
+    <string name="label_popularity">Popularity</string>
+    <string name="label_mostRated">Most Rated</string>
+    <!--<string name="key_sortTypes" translatable="false">sort</string>
+    <string name="key_popularity" translatable="false">popular</string>
+    <string name="key_mostRated" translatable="false">mostRated</string>-->
+
+</resources>
